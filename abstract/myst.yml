@@ -29,7 +29,7 @@ project:
 
   banner: banner.png
   thumbnail: thumbnail.png
-  # subject: Electromagnetics
+  subject: Electromagnetics
   venue:
     title: American Geophysical Union Annual Meeting 2025
     url: https://www.agu.org/annual-meeting-2025
