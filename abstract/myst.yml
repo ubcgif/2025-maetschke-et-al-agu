@@ -56,6 +56,6 @@ site:
   template: article-theme
   actions:
     - title: slides
-      url: 2025-maetschke-et-al-agu.pdf
+      url: presentation/2025-maetschke-et-al-agu.pdf
       static: true
   
