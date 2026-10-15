@@ -1,53 +1,61 @@
 version: 1
 project:
-  # id: ubcgif-YEAR-AUTHORS-CONFERENCE
-  # title: TITLE
-  # description: DESCRIPTION
+  id: ubcgif-2025-maetschke-et-al-agu
+  title: Joint Inversion of Magnetotelluric and P-Wave Travel Time Data at Mount St. Helens Volcano Using a Variation of Information Constraint
+  description: Presentation given at AGU2025, Session GP22A - Frontiers in Electromagnetic (EM) Geophysics I Oral
   authors:
-    # - name: AUTHOR 1
-    #   email: EMAIL
-    #   corresponding: true
-    #   orcid: ORCID
-    #   affiliation:
-    #     id: ubc
-    #     name: Geophysical Inversion Facility, University of British Columbia, Vancouver, British Columbia
-    # - name: Lindsey J. Heagy
-    #   email: lheagy@eoas.ubc.ca
-    #   corresponding: true
-    #   orcid: 0000-0002-1551-5926
-    #   affiliation: ubc
-    # - name: Douglas W. Oldenburg
-    #   affiliation: ubc
-    #   email: doug@eos.ubc.ca
-    #   orcid: 0000-0002-4327-2124
-  # banner: banner.png
+    - name: Katharina Maetschke
+      email: kathim@eoas.ubc.ca
+      corresponding: true
+      orcid: 0009-0005-0692-5033
+      affiliation:
+        id: ubc
+        name: Geophysical Inversion Facility, University of British Columbia, Vancouver, British Columbia
+    - name: Lindsey J. Heagy
+      email: lheagy@eoas.ubc.ca
+      corresponding: false
+      orcid: 0000-0002-1551-5926
+      affiliation: ubc
+    - name: Max Moorkamp
+      email: 
+      corresponding: false
+      orcid: 0000-0002-7879-1346
+      affiliation: Technical University Berlin, Faculty VI, Applied Geophysics, Berlin, Germany
+    - name: Graham Hill
+      email:
+      corresponding: false
+      orcid: 0000-0003-0058-3173
+      affiliation: Czech Academy of Sciences, Institute of Geophysics, Prague, Czech Republic
+
+  banner: banner.jpeg
   thumbnail: thumbnail.png
   # subject: Electromagnetics
   venue:
-    # title: CONFERENCE NAME
-    # url: CONFERENCE URL
+    title: American Geophysical Union Annual Meeting 2025
+    url: https://www.agu.org/annual-meeting-2025
   # license: CC-BY-4.0
   # open_access: true
   # doi: DOI
-  # date: YYYY-MM-DD
+  date: 2025-12-16
   abbreviations:
-    # DC: direct current
-    # EM: electromagnetics
+    VI: Variation of Information
+    MT: Magnetotellurics
   # github:
-  # bibliography: []
-  # keywords:
-  #   - Controlled source electromagnetics (CSEM)
-  #   - Downhole methods
-  #   - Numerical modelling
-  #   - Electrical properties
-  #   - Magnetic properties
+  bibliography: 
+    - Hill, G. J., Caldwell, T. G., Heise, W., Chertkoff, D. G., Bibby, H. M., Burgess, M. K., Cull, J. P., & Cas, R. A. F. (2009). Distribution of melt beneath Mount St Helens and Mount Adams inferred from magnetotelluric data | Nature Geoscience. Nature Geoscience, 2(11), 785–789. https://doi.org/10.1038/ngeo661
+    - Moorkamp, M., Heincke, B., Jegen, M., Roberts, A. W., & Hobbs, R. W. (2011). A framework for 3-D joint inversion of MT, gravity and seismic refraction data. Geophysical Journal International, 184(1), 477–493. https://doi.org/10.1111/j.1365-246X.2010.04856.x
+    - Moorkamp, M. (2021). Joint inversion of gravity and magnetotelluric data from the Ernest-Henry IOCG deposit with a variation of information constraint. In First International Meeting for Applied Geoscience & Energy Expanded Abstracts (pp. 1711–1715). Society of Exploration Geophysicists. https://doi.org/10.1190/segam2021-3582000.1
+    - Ulberg, C. W., Creager, K. C., Moran, S. C., Abers, G. A., Thelen, W. A., Levander, A., Kiser, E., Schmandt, B., Hansen, S. M., & Crosson, R. S. (2020). Local Source Vp and Vs Tomography in the Mount St. Helens Region With the iMUSH Broadband Array. Geochemistry, Geophysics, Geosystems, 21(3), e2019GC008888. https://doi.org/10.1029/2019GC008888
+    - Waite, G. P., & Moran, S. C. (2009). VP Structure of Mount St. Helens, Washington, USA, imaged with local earthquake tomography. Journal of Volcanology and Geothermal Research, 182(1), 113–122. https://doi.org/10.1016/j.jvolgeores.2009.02.009
+  keywords:
+    - Joint inversion
+    - Magnetotellurics
+    - Seismic tomography
+    - Volcanic plumbing system
 site:
   template: article-theme
   actions:
-    # - title: pdf
-    #   url: ARTICLE-NAME.pdf
-    #   static: true
-    # - title: slides
-    #   url: presentation/SLIDES-NAME.pdf
-    #   static: true
-  # domains: []
+    - title: slides
+      url: 2025-maetschke-et-al-agu.pdf
+      static: true
+  
