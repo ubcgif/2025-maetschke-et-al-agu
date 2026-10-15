@@ -55,7 +55,7 @@ project:
 site:
   template: article-theme
   actions:
-    - title: slides
+    - title: pdf
       url: presentation/2025-maetschke-et-al-agu.pdf
       static: true
   
