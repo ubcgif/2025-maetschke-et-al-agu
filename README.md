@@ -5,9 +5,9 @@ Katharina Maetschke<sup>1</sup>, Max Moorkamp<sup>2</sup>, Graham Hill<sup>3</su
 Heagy<sup>1</sup>
 
 1) University of British Columbia, Department of Earth, Ocean and
-Atmospheric Sciences, Vancouver, BC, Canada\
+Atmospheric Sciences, Vancouver, BC, Canada
 2) Technical University Berlin, Faculty VI, Applied Geophysics,
-Berlin, Germany\
+Berlin, Germany
 3) Czech Academy of Sciences, Institute of Geophysics, Prague, Czech
 Republic
 

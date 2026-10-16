@@ -17,7 +17,7 @@ project:
       orcid: 0000-0002-1551-5926
       affiliation: ubc
     - name: Max Moorkamp
-      email: 
+      email:
       corresponding: false
       orcid: 0000-0002-7879-1346
       affiliation: Technical University Berlin, Faculty VI, Applied Geophysics, Berlin, Germany
@@ -29,7 +29,7 @@ project:
 
   banner: banner.png
   thumbnail: thumbnail.png
-  # subject: Electromagnetics
+  subject: Electromagnetics
   venue:
     title: American Geophysical Union Annual Meeting 2025
     url: https://www.agu.org/annual-meeting-2025
@@ -41,7 +41,7 @@ project:
     VI: Variation of Information
     MT: Magnetotellurics
   # github:
-  bibliography: 
+  bibliography:
     - Hill, G. J., Caldwell, T. G., Heise, W., Chertkoff, D. G., Bibby, H. M., Burgess, M. K., Cull, J. P., & Cas, R. A. F. (2009). Distribution of melt beneath Mount St Helens and Mount Adams inferred from magnetotelluric data | Nature Geoscience. Nature Geoscience, 2(11), 785–789. https://doi.org/10.1038/ngeo661
     - Moorkamp, M., Heincke, B., Jegen, M., Roberts, A. W., & Hobbs, R. W. (2011). A framework for 3-D joint inversion of MT, gravity and seismic refraction data. Geophysical Journal International, 184(1), 477–493. https://doi.org/10.1111/j.1365-246X.2010.04856.x
     - Moorkamp, M. (2021). Joint inversion of gravity and magnetotelluric data from the Ernest-Henry IOCG deposit with a variation of information constraint. In First International Meeting for Applied Geoscience & Energy Expanded Abstracts (pp. 1711–1715). Society of Exploration Geophysicists. https://doi.org/10.1190/segam2021-3582000.1
