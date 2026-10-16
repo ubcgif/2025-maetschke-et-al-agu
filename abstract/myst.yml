@@ -54,8 +54,7 @@ project:
     - Volcanic plumbing system
 site:
   template: article-theme
-  actions:
+  downloads:
     - title: slides
       url: presentation/2025-maetschke-et-al-agu.pdf
-      static: true
   
