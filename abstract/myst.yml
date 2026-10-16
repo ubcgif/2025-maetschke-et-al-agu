@@ -55,6 +55,6 @@ project:
   downloads:
     - title: slides
       url: presentation/2025-maetschke-et-al-agu.pdf
-  site:
+site:
   template: article-theme
   
