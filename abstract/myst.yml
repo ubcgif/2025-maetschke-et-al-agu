@@ -52,9 +52,9 @@ project:
     - Magnetotellurics
     - Seismic tomography
     - Volcanic plumbing system
-site:
-  template: article-theme
   downloads:
     - title: slides
       url: presentation/2025-maetschke-et-al-agu.pdf
+site:
+  template: article-theme
   
