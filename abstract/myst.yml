@@ -53,7 +53,7 @@ project:
     - Seismic tomography
     - Volcanic plumbing system
   downloads:
-    - title: pdf
+    - title: slides
       url: presentation/2025-maetschke-et-al-agu.pdf
 site:
   template: article-theme
